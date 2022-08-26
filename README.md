@@ -15,7 +15,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-## Demo
-You can see the live demo of react-page-markdown-plugin [here](https://react-page-markdown-plugin.netlify.app/)
+
 
 

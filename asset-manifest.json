@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-page-markdown-plugin-demo/static/css/main.ee596579.css",
-    "main.js": "/react-page-markdown-plugin-demo/static/js/main.9080d722.js",
+    "main.js": "/react-page-markdown-plugin-demo/static/js/main.08a4cbde.js",
     "react-syntax-highlighter/refractor-core-import.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter/refractor-core-import.14715882.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_abap.fcb55b19.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_actionscript.caec8058.chunk.js",
@@ -154,14 +154,14 @@
     "react-syntax-highlighter_languages_refractor_xojo.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_xojo.e4435d59.chunk.js",
     "react-syntax-highlighter_languages_refractor_xquery.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_xquery.c624347f.chunk.js",
     "react-syntax-highlighter_languages_refractor_yaml.js": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_yaml.814076d7.chunk.js",
-    "static/js/4990.05dce3c3.chunk.js": "/react-page-markdown-plugin-demo/static/js/4990.05dce3c3.chunk.js",
+    "static/js/4990.d52eb191.chunk.js": "/react-page-markdown-plugin-demo/static/js/4990.d52eb191.chunk.js",
     "static/js/5821.85908cba.chunk.js": "/react-page-markdown-plugin-demo/static/js/5821.85908cba.chunk.js",
     "static/js/6766.84a2d521.chunk.js": "/react-page-markdown-plugin-demo/static/js/6766.84a2d521.chunk.js",
     "static/js/6405.270aa620.chunk.js": "/react-page-markdown-plugin-demo/static/js/6405.270aa620.chunk.js",
     "static/js/9815.9c2fc8dc.chunk.js": "/react-page-markdown-plugin-demo/static/js/9815.9c2fc8dc.chunk.js",
     "index.html": "/react-page-markdown-plugin-demo/index.html",
     "main.ee596579.css.map": "/react-page-markdown-plugin-demo/static/css/main.ee596579.css.map",
-    "main.9080d722.js.map": "/react-page-markdown-plugin-demo/static/js/main.9080d722.js.map",
+    "main.08a4cbde.js.map": "/react-page-markdown-plugin-demo/static/js/main.08a4cbde.js.map",
     "refractor-core-import.14715882.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter/refractor-core-import.14715882.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.fcb55b19.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_abap.fcb55b19.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.caec8058.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_actionscript.caec8058.chunk.js.map",
@@ -314,7 +314,7 @@
     "react-syntax-highlighter_languages_refractor_xojo.e4435d59.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_xojo.e4435d59.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_xquery.c624347f.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_xquery.c624347f.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_yaml.814076d7.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/react-syntax-highlighter_languages_refractor_yaml.814076d7.chunk.js.map",
-    "4990.05dce3c3.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/4990.05dce3c3.chunk.js.map",
+    "4990.d52eb191.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/4990.d52eb191.chunk.js.map",
     "5821.85908cba.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/5821.85908cba.chunk.js.map",
     "6766.84a2d521.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/6766.84a2d521.chunk.js.map",
     "6405.270aa620.chunk.js.map": "/react-page-markdown-plugin-demo/static/js/6405.270aa620.chunk.js.map",
@@ -322,6 +322,6 @@
   },
   "entrypoints": [
     "static/css/main.ee596579.css",
-    "static/js/main.9080d722.js"
+    "static/js/main.08a4cbde.js"
   ]
 }
